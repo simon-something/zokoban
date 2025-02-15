@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "wall.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "box.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "goal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 2.1374999999999997,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 269.70760233918134,
+                "y": 234.38596491228077
+            }
+        },
+        "wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Volumes/Documents/rust/ZoKoban/assets",
+    "last.imagePath": "/Volumes/Documents/rust/ZoKoban/assets",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 15,
+    "openFiles": [
+        "level1.tmx",
+        "wall.tsx"
+    ],
+    "project": "zokoban.tiled-project",
+    "recentFiles": [
+        "level1.tmx",
+        "wall.tsx",
+        "box.tsx",
+        "goal.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
